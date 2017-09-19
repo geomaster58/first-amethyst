@@ -1,0 +1,13 @@
+name: first-amethyst
+version: 0.1.0
+
+authors:
+  -  <jjkeeney129285@gmail.com>
+
+targets:
+  first-amethyst:
+    main: src/first-amethyst.cr
+
+crystal: 0.23.1
+
+license: MIT
